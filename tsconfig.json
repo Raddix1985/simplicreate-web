@@ -22,6 +22,11 @@
     "strictInputAccessModifiers": true,
     "strictTemplates": true
   },
+  "exclude": [
+    "node_modules",
+    "scripts"
+  ],
+  
   "files": [],
   "references": [
     {

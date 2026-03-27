@@ -1,4 +1,4 @@
-node scripts/secret-scan.cjs
+node scripts/secret-scan.mjs
 
 npm run lint
 npm test
